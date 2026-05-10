@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+outputs/*.png
+outputs/*.html
+data/*.csv
+.DS_Store
